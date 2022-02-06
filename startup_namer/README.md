@@ -2,8 +2,8 @@
 
 A codelab from Google Codelabs, introducing Flutter mobile applications to new developers
 
-(https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?hl=en)[Part 1] - Beginning basic randomly generated word combinations
-(https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2?hl=en)[Part 2] - Adding functionality for saving word combinations and route navigation.
+[Part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?hl=en) - Beginning basic randomly generated word combinations
+[Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2?hl=en) - Adding functionality for saving word combinations and route navigation.
 
 ## Learning Outcomes:
 - Learnt how to build a basic Flutter mobile application
