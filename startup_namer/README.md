@@ -1,16 +1,15 @@
-# startup_namer
+# Startup Namer
 
-A new Flutter project.
+A codelab from Google Codelabs, introducing Flutter mobile applications to new developers
 
-## Getting Started
+[https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?hl=en](Part 1) - Beginning basic randomly generated word combinations
+[https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2?hl=en](Part 2) - Adding functionality for saving word combinations and route navigation.
 
-This project is a starting point for a Flutter application.
+## Learning Outcomes:
+- Learnt how to build a basic Flutter mobile application
+- Learnt how to implement routes outside of a single page application
+- Learnt how to maintain lists in the app state
+- Learnt how to handle clicks on application elements
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Added functionality from outside the codelabs
+None.
